@@ -1,0 +1,20 @@
+h1, h3{
+    text-align: center;
+    color: brown;
+}
+
+img{
+    margin-left: 650px;
+    border: black solid;
+}
+p, li{
+    color: rgb(15, 21, 64);
+}
+.home{
+    text-decoration: none;
+    color: brown;
+    border: solid brown;
+    padding: 5px;
+    text-align: center;
+    margin-left: 740px;
+}
